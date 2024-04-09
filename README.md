@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To install Tailwind css we need to install the dependency. Tailwind css is a kind of plugin build in top of postcss. Sometime we need to add postcss plugin config, install its dependencies and then add the details and then restart the server.
 
 Currently, two official plugins are available:
 
